@@ -1,1 +1,2 @@
-fruit = Array.new[5]
+lunch_menu = ["pizza", "sandwich", "sushi", "soup", "salad"]
+lunch_menu.map {|item| "#{item}!" } 
